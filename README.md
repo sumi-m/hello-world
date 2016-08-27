@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+hii
+
+love to code and learn new technology.
